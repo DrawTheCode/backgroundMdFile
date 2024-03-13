@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "bgc.md",
+	"name": "Background MD file",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This plugin add a background in display of md views.",
+	"author": "DrawTheCode",
+	"authorUrl": "https://github.com/DrawTheCode",
+	"fundingUrl": "https://www.buymeacoffee.com/drawthecode",
 	"isDesktopOnly": false
 }
